@@ -1,1 +1,28 @@
 /* Add your CSS code below */
+.link--map {
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+}
+.link--gif {
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+}
+.message__content {
+  font-size: 0.9rem;
+}
+.message--unread {
+  border-left-color: royalblue;
+  border-left-width: 100;
+  border-left-style: solid;
+}
+.message__time--old {
+  opacity: 0.5;
+}
+.message__content1 {
+  opacity: 0.5;
+}
+.message__content {
+  line-height: 2em;
+}
