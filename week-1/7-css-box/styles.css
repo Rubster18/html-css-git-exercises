@@ -4,3 +4,12 @@
   border-radius: 4px;
   background: #fff;
 }
+.site-header__title {
+  background-size: auto;
+}
+.country {
+  height: 45px;
+  padding-left: 40%;
+  padding-top: 20px;
+  border-radius: 700px;
+}
