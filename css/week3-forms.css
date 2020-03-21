@@ -116,8 +116,8 @@ button {
   background: #4491db;
   color: #fff;
   font-weight: 600;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
-    "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu",
+    "Cantarell", "Helvetica Neue", sans-serif;
 }
 
 button:hover,
@@ -171,4 +171,9 @@ button:focus {
 .shopping-basket__product img {
   max-width: 128px;
   height: auto;
+}
+.checkboxes {
+  display: block;
+  border-style: solid;
+  padding: 5px 5px 5px 5px;
 }
